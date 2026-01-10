@@ -26,7 +26,25 @@
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-286&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-286&theme=radical&hide_border=true" ### 📈 **GitHub Statistics**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-268&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180"  />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-268&layout=compact&theme=radical&hide_border=true" height="180" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-268&theme=radical&hide_border=true" alt="streak graph" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Siddhant-268&icon=0&color=12" />
+  <p>Thanks for visiting!</p>
+</div>/>
 </div>
 
 ---
