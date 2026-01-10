@@ -19,21 +19,21 @@
 # 📊 **GitHub Statistics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhant-286&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Siddhant-286&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddhant-286&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhant-286&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=siddhant-286&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-286&theme=radical&hide_border=true" alt="streak graph" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=siddhant-286&icon=0&color=12" />
+  <img src="https://visitcount.itsvg.in/api?id=Siddhant-286&icon=0&color=12" />
   <p>Thanks for visiting!</p>
 </div>
 
