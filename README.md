@@ -84,6 +84,6 @@ Here are some of my key analytics projects (more on my GitHub repos):
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=Siddhant-286&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile visit counter" />
-</div>svg.in/api?id=Siddhant-286&icon=0&color=12" />
-  <p>Thanks for visiting!</p>
 </div>
+
+Thanks for visiting!
