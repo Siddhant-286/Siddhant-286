@@ -80,7 +80,7 @@ Here are some of my key analytics projects (more on my GitHub repos):
 ## 🔢 Profile Visit Counter
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Siddhant-286/count.svg" alt="Profile visit counter" />
+  <img src="https://komarev.com/ghpvc/?username=Siddhant-286&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile visit counter" />
 </div>
 
 Thanks for visiting!
