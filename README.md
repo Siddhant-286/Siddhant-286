@@ -75,10 +75,8 @@ Here are some of my key analytics projects (more on my GitHub repos):
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Siddhant-286&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Siddhant-286&theme=radical&hide_border=true" alt="streak graph" />
 </div>
-
----
 
 ## 🔢 Profile Visit Counter
 
