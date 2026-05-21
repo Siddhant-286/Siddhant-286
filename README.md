@@ -64,12 +64,10 @@ Here are some of my key analytics projects (more on my GitHub repos):
 
 ---
 
-
-
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant-286&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Siddhant-286&theme=radical&hide_border=true&v=1" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
@@ -82,7 +80,7 @@ Here are some of my key analytics projects (more on my GitHub repos):
 ## 🔢 Profile Visit Counter
 
 <div align="center">
-  <img src="https://komarev.com/ghvc/?username=Siddhant-286&label=Profile%20Views&color=0077B5&style=flat-square" alt="Profile visit counter" />
+  <img src="https://profile-counter.glitch.me/Siddhant-286/count.svg" alt="Profile visit counter" />
 </div>
 
 Thanks for visiting!
