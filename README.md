@@ -69,15 +69,14 @@ Here are some of my key analytics projects (more on my GitHub repos):
 ## 📈 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Siddhant-286&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Siddhant-286&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhant-286&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Siddhant-286&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Siddhant-286&theme=radical" height="150" alt="Languages Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Siddhant-286&theme=radical" height="150" alt="Overall Stats" />
 </div>
 
 ## 🔢 Profile Visit Counter
