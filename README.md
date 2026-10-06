@@ -1,12 +1,15 @@
 # Hi there, I'm **Siddhant** 👋
 
-### 👨‍💻 Data Analyst (Fresher) & Problem Solver
+### 👨‍💻 Data Analyst (Fresher) | Networking Learner | Problem Solver
 
 - 👋 I’m a **data analyst (fresher)** and problem solver with a passion for turning data into insights.
 - 💻 I specialize in **Python, SQL, and Data Visualization** (Power BI / Tableau).
 - 📊 I enjoy transforming raw data into meaningful stories and actionable dashboards.
-- 🚀 Currently learning **Machine Learning** and advanced statistics to deepen my analytical skills.
+- 🌐 Currently learning **Computer Networking, CCNA concepts, Cisco Packet Tracer, IP Addressing, Subnetting, Routing, and Network Troubleshooting**.
+- 🔧 Building hands-on networking labs using **Cisco routers, switches, VLANs, static routing, and subnetting**.
+- 🚀 Currently learning **Machine Learning**, advanced statistics, and networking to expand my technical skill set.
 - 🌱 Actively working on real-world projects in domains like **UPI payments, insurance, churn, and climate analytics**.
+- 📚 Practicing networking through **Cisco Packet Tracer labs** and documenting my learning and projects on GitHub.
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/siddhant-tiwari-650160295/)** or via email at **siddhanttiwari060@gmail.com**.
 
 ---
